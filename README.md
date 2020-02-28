@@ -4,6 +4,10 @@ Examples and notebooks of using PyMC3 for learning Bayesian Analysis
 
 Repo for Tutorial on Getting started with Bayesian Analysis and PyMC3.
 
+### Slides (to follow along)
+In case you wish to have a look, the slides are at:
+https://speakerdeck.com/ramnarasimhan/getting-started-with-bayesian-analysis-and-pymc3
+
 ### Notebooks
 In the `notebooks/` folder, there are 3 notebooks with Examples:
 
